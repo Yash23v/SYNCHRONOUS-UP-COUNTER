@@ -53,7 +53,7 @@ RegisterNumber:25012236
 **RTL LOGIC UP COUNTER**
 <img width="1920" height="1020" alt="Logic Diagram" src="https://github.com/user-attachments/assets/bf80545a-bf4d-4e13-b4aa-d841332762f5" />
 
-**TIMING DIAGRAM FOR IP COUNTER**
+**TIMING DIAGRAM FOR UP COUNTER**
 <img width="1920" height="1020" alt="Waveform" src="https://github.com/user-attachments/assets/cf3db0c3-8d8b-42dc-8c99-cde0f9754bef" />
 
 **TRUTH TABLE**
